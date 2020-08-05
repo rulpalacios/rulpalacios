@@ -8,7 +8,7 @@ I'm Ultra Instinct Full Stack Software Engineer, and tech-content creator at @Yo
 - 👨🏻‍💻  I'm currently working for Provelop in a Flutter Application.
 - 🌱  I’m currently learning and studying to work at the company of my dreams.
 - 🏎️  Follow me on [Twitter](https://twitter.com/ZRaulPalacios) or [Instagram](https://www.instagram.com/raul_palacioz).
-- 👾  Hobby: Collect Dragon Ball Figures, Cycling and Play League of Legends with my friends. I'm the best Top Laner of LAN 🤭.
+- 👾  Hobby: Collect Dragon Ball Figures and Cycling.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
