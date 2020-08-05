@@ -10,5 +10,5 @@ I'm Ultra Instinct Full Stack Software Engineer, and tech-content creator at @Yo
 - 🏎️  Follow me on [Twitter](https://twitter.com/ZRaulPalacios) or [Instagram](https://www.instagram.com/raul_palacioz).
 - 👾  Hobby: Collect Dragon Ball Figures, Cycling and Play League of Legends with my friends. I'm the best Top Laner of LAN 🤭.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
