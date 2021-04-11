@@ -9,5 +9,5 @@ I'm Ultra Instinct Full Stack Software Engineer at [michelada](https://twitter.c
 - 🏎️  Follow me on [Twitter](https://twitter.com/ZRaulPalacios) or [Instagram](https://www.instagram.com/raul_palacioz).
 - 👾  Hobby: Collect Dragon Ball Figures, I Play like [Top Laner](https://lan.op.gg/summoner/userName=ElGalloPalacios) in League of legends and Cycling.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios)](https://github.com/anuraghazra/github-readme-stats)
 
