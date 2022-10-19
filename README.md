@@ -1,6 +1,6 @@
 ### Hi, I'm Raúl 👋🏼
 
-I'm Ultra Instinct Full Stack Software Engineer at [michelada](https://twitter.com/micheladaio), and tech-content creator at @YouTube
+I'm Ultra Instinct Full Stack Software Engineer, and tech-content creator at @YouTube
 
 - 📹  I make video tutorials on my [YouTube Channel](https://www.youtube.com/channel/UC07xim4Gg8kOk3uZwMrGNeQ).
 - 🐉  I Collect Dragon Ball Figures and make reviews on my [YouTube Channel](https://www.youtube.com/channel/UCzObQlzmFOSPIsUiiL7-RYg).
